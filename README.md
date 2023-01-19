@@ -10,6 +10,7 @@ resxu.me is a powerful open source tool for creating professional resumes in min
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/attavya"><img src="https://avatars.githubusercontent.com/u/110299332?v=4?s=100" width="100px;" alt="Gaurav Sharma"/><br /><sub><b>Gaurav Sharma</b></sub></a><br /><a href="#content-attavya" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://adityavijay.codes"><img src="https://avatars.githubusercontent.com/u/79340120?v=4?s=100" width="100px;" alt="Aditya Vijay"/><br /><sub><b>Aditya Vijay</b></sub></a><br /><a href="https://github.com/resxume/resxume/commits?author=kiriotheo" title="Code">💻</a> <a href="#design-kiriotheo" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
