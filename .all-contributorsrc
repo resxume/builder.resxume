@@ -7,15 +7,6 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "attavya",
-      "name": "Gaurav Sharma",
-      "avatar_url": "https://avatars.githubusercontent.com/u/110299332?v=4",
-      "profile": "https://github.com/attavya",
-      "contributions": [
-        "content"
-      ]
-    },
-    {
       "login": "kiriotheo",
       "name": "Aditya Vijay",
       "avatar_url": "https://avatars.githubusercontent.com/u/79340120?v=4",
@@ -25,6 +16,16 @@
         "design"
       ]
     },
+    {
+      "login": "attavya",
+      "name": "Gaurav Sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110299332?v=4",
+      "profile": "https://github.com/attavya",
+      "contributions": [
+        "content"
+      ]
+    },
+    
     {
       "login": "KunalUpadhyay02",
       "name": "KUNAL UPADHYAY",
