@@ -27,3 +27,5 @@ resxu.me is a powerful open source tool for creating professional resumes in min
 <!-- prettier-ignore-end -->
 [![All Contributors](https://img.shields.io/github/all-contributors/resxume/resxume?color=ee8449&style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+## For Support
+Need help or have questions? Our community support is here for you! Please reach out to us at dustland.developers@gmail.com or join our [Discussion](https://github.com/orgs/resxume/discussions) support channel for assistance.
