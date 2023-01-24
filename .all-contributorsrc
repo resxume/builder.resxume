@@ -25,7 +25,6 @@
         "content"
       ]
     },
-    
     {
       "login": "KunalUpadhyay02",
       "name": "KUNAL UPADHYAY",
@@ -33,6 +32,16 @@
       "profile": "https://github.com/KunalUpadhyay02",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "ajayshsh7",
+      "name": "Ajay kumar sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89329270?v=4",
+      "profile": "http://bookstend.in",
+      "contributions": [
+        "code",
+        "design"
       ]
     }
   ],
