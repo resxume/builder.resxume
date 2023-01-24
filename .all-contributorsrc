@@ -25,7 +25,6 @@
         "content"
       ]
     },
-    
     {
       "login": "KunalUpadhyay02",
       "name": "KUNAL UPADHYAY",
@@ -33,6 +32,15 @@
       "profile": "https://github.com/KunalUpadhyay02",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "mudgalji123",
+      "name": "mudgalji123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123180535?v=4",
+      "profile": "https://github.com/mudgalji123",
+      "contributions": [
+        "design"
       ]
     }
   ],
