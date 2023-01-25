@@ -7,6 +7,16 @@
   "commitConvention": "angular",
   "contributors": [
     {
+      "login": "kiriotheo",
+      "name": "Aditya Vijay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79340120?v=4",
+      "profile": "http://adityavijay.codes",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
       "login": "attavya",
       "name": "Gaurav Sharma",
       "avatar_url": "https://avatars.githubusercontent.com/u/110299332?v=4",
@@ -16,10 +26,19 @@
       ]
     },
     {
-      "login": "kiriotheo",
-      "name": "Aditya Vijay",
-      "avatar_url": "https://avatars.githubusercontent.com/u/79340120?v=4",
-      "profile": "http://adityavijay.codes",
+      "login": "KunalUpadhyay02",
+      "name": "KUNAL UPADHYAY",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100353222?v=4",
+      "profile": "https://github.com/KunalUpadhyay02",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ajayshsh7",
+      "name": "Ajay kumar sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89329270?v=4",
+      "profile": "http://bookstend.in",
       "contributions": [
         "code",
         "design"
